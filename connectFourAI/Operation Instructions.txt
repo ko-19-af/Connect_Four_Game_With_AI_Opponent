@@ -1,0 +1,8 @@
+1.) open all classes in an IDE that uses JAVA (I used IntelliJ you don't have to)
+
+2.) run main program "connectFour" and play connect4
+
+3.) mark program
+
+Heurestic: The heuristic I used in my AI counts the number of pieces that are connected in one of 7 directions (excluded down for obvious reasons), it also determines if it is possible to win in one move with those pieces in that direction or not if the player is blocked in the next position by their opponent.
+
